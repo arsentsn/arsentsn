@@ -7,7 +7,7 @@ Welcome to my github profile! 👋
 **Connect with me**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/arsentsn)
 
-**Languages & Tools** <sup>(so far)</sup>
+**Languages & Tools** <sup>(used so far)</sup>
  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
